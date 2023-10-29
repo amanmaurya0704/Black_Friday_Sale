@@ -1,4 +1,4 @@
-# Flight Price Prediction Project
+# Flight Price Prediction: Unraveling the Skies of Uncertainty
 
 Welcome to the Flight Price Prediction Project! In this data science endeavor, our mission is to predict flight prices accurately. Leveraging advanced machine learning techniques, we aim to provide travelers with reliable price estimates for their upcoming flights, empowering them to make informed decisions.
 
